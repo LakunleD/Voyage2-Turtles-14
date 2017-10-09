@@ -1,0 +1,16 @@
+{
+  "short_name": "Turtle Team 14 Chrome extension",
+  "name": "Turtle14",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "New tab chrome extension",
+  "icons": {
+    "48": "./icons/turtle-48.png"
+  },
+  "browser_action": {
+    "default_icon": "./icons/turtle.png"
+  },
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+}
