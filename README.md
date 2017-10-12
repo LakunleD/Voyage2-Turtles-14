@@ -12,7 +12,7 @@ Inspiration for the app is taken from three different extensions ("Currently", "
 - Switch to the `develop` branch using `git checkout develop`
 - run `npm install` to get all the project dependencies
 - run `npm run build` or if you are using yarn, do `yarn build`. This creates a `build` folder inside the project
-- Got to your chrome browser, and type `chrome://extensions` in the address bar
+- Open chrome browser, and type `chrome://extensions` in the address bar
 - Then click the `Load unpacked extension` button and select the `build` folder inside the project folder
 - Open a new tab in your browser and you should see a custom new tab page.
 
